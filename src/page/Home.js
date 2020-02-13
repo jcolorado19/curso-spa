@@ -4,7 +4,7 @@ const Home = async () => {
     const characters = await getData()
 
     const view = `
-        <div class="Characters">
+        <div class="characters">
             ${characters.results.map(character => `
                 <article class="Character-item">
                     <a href="#/${character.id}/">
