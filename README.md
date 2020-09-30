@@ -19,7 +19,7 @@ Single page web application and load the information using vanilla JavaScript. A
 
 `npm run build`
 
-## Technologies
+## Languages or Technologies
 
 - Webpack
 - HTML5
